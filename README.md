@@ -36,7 +36,18 @@ check joystick status using ros node
 ```
 ros2 run joy_linux joy_linux_node
 ```
+- step 6 install moveit
+```
+sudo apt install ros-humble-moveit
+```
 
+https://moveit.ros.org/install-moveit2/binary/
+
+https://moveit.picknik.ai/humble/doc/tutorials/getting_started/getting_started.html
+
+## moveit tutorial
+
+https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html
 
 ## others
 
