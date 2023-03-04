@@ -47,6 +47,10 @@ https://moveit.picknik.ai/humble/doc/tutorials/getting_started/getting_started.h
 
 ## moveit tutorial
 
+- docker
+
+https://moveit.picknik.ai/humble/doc/how_to_guides/how_to_setup_docker_containers_in_ubuntu.html
+
 https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html
 
 ## others
