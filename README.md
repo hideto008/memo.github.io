@@ -47,6 +47,14 @@ https://moveit.picknik.ai/humble/doc/tutorials/getting_started/getting_started.h
 
 ## moveit tutorial
 
+- down grade setuptool version to build ros2_tutorial repository
+```
+pip install setuptools==58.2.0
+```
+
+https://answers.ros.org/question/396439/setuptoolsdeprecationwarning-setuppy-install-is-deprecated-use-build-and-pip-and-other-standards-based-tools/
+
+
 - docker
 
 https://moveit.picknik.ai/humble/doc/how_to_guides/how_to_setup_docker_containers_in_ubuntu.html
@@ -54,6 +62,12 @@ https://moveit.picknik.ai/humble/doc/how_to_guides/how_to_setup_docker_container
 https://moveit.picknik.ai/humble/doc/tutorials/quickstart_in_rviz/quickstart_in_rviz_tutorial.html
 
 ## others
+
+- pip
+```
+sudo apt install python3-pip
+```
+
 
 - install scilab
 ```
