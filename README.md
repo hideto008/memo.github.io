@@ -2,7 +2,7 @@
 
 ## ROS2 hubmle installation for Ubuntu 22.04
 
-- step1 install 'ros-humble-desktop'
+- step1 install 'ros-humble-desktop' and 'ros-dev-tools'
 
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
@@ -49,6 +49,7 @@ https://moveit.picknik.ai/humble/doc/tutorials/getting_started/getting_started.h
 
 - down grade setuptool version to build ros2_tutorial repository
 ```
+sudo apt install python3-pip
 pip install setuptools==58.2.0
 ```
 
